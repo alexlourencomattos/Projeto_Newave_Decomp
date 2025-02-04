@@ -1,0 +1,62 @@
+&RE; cod_rest;  formula
+RE ;        1;   ger_usih(285) + ger_usih(287)
+RE ;       20;   1.0ener_interc(2,1) + 0.5ger_usih(66)
+RE ;       21;   1.0ener_interc(11,1) + ger_usih(261)+ ger_usih(257)
+RE ;       22;   1.0ener_interc(11,1) + 1.0ener_interc(3,1) + ger_usih(261)+ ger_usih(257)
+RE ;       23;   1.0ener_interc(11,1) + 1.0ener_interc(3,1) + 1.0ener_interc(4,1) + ger_usih(261)+ ger_usih(257)
+ 
+&RE-HORIZ-PER; cod_rest; PerIni; PerFin
+RE-HORIZ-PER ;        1;2025/02;2025/03
+RE-HORIZ-PER ;       20;2025/02;2026/01
+RE-HORIZ-PER ;       21;2025/02;2026/01
+RE-HORIZ-PER ;       22;2025/02;2025/03
+RE-HORIZ-PER ;       23;2025/04;2026/01
+ 
+&RE-LIM-FORM-PER-PAT; cod_rest;  PerIni;  PerFin;   Pat;    LimInf;  LimSup
+& Escoamento Madeira
+RE-LIM-FORM-PER-PAT ;        1; 2025/02; 2025/03;     1;   -1.1e30;  7418.00
+RE-LIM-FORM-PER-PAT ;        1; 2025/02; 2025/03;     2;   -1.1e30;  7418.00
+RE-LIM-FORM-PER-PAT ;        1; 2025/02; 2025/03;     3;   -1.1e30;  7418.00
+& Limite Sul-SE = Min (FSUL , RSE - 1/2 Itaipu) - valores de RSE:
+RE-LIM-FORM-PER-PAT ;       20; 2025/02; 2025/03;     1;   -1.1e30;  7970.00
+RE-LIM-FORM-PER-PAT ;       20; 2025/02; 2025/03;     2;   -1.1e30;  7970.00
+RE-LIM-FORM-PER-PAT ;       20; 2025/02; 2025/03;     3;   -1.1e30;  9030.00
+RE-LIM-FORM-PER-PAT ;       20; 2025/04; 2026/01;     1;   -1.1e30; 10200.00
+RE-LIM-FORM-PER-PAT ;       20; 2025/04; 2026/01;     2;   -1.1e30; 10200.00
+RE-LIM-FORM-PER-PAT ;       20; 2025/04; 2026/01;     3;   -1.1e30; 11400.00
+&  Limite Imperatriz - Sudeste = FNS - Lajeado - Peixe Angical - valores do FNS:
+RE-LIM-FORM-PER-PAT ;       21; 2025/02; 2025/02;     1;   -1.1e30;  3050.00
+RE-LIM-FORM-PER-PAT ;       21; 2025/02; 2025/02;     2;   -1.1e30;  3050.00
+RE-LIM-FORM-PER-PAT ;       21; 2025/02; 2025/02;     3;   -1.1e30;  3050.00
+RE-LIM-FORM-PER-PAT ;       21; 2025/03; 2025/03;     1;   -1.1e30;  3200.00
+RE-LIM-FORM-PER-PAT ;       21; 2025/03; 2025/03;     2;   -1.1e30;  3200.00
+RE-LIM-FORM-PER-PAT ;       21; 2025/03; 2025/03;     3;   -1.1e30;  3200.00
+RE-LIM-FORM-PER-PAT ;       21; 2025/04; 2026/01;     1;   -1.1e30;  5400.00
+RE-LIM-FORM-PER-PAT ;       21; 2025/04; 2026/01;     2;   -1.1e30;  5400.00
+RE-LIM-FORM-PER-PAT ;       21; 2025/04; 2026/01;     3;   -1.1e30;  5200.00
+& Limite FNS + FNESE = Limite 11-1 + Limite 3-1 + Lajeado + Peixe Angical 
+RE-LIM-FORM-PER-PAT ;       22; 2025/02; 2025/02;     1;   -1.1e30;  7160.00
+RE-LIM-FORM-PER-PAT ;       22; 2025/02; 2025/02;     2;   -1.1e30;  6171.00
+RE-LIM-FORM-PER-PAT ;       22; 2025/02; 2025/02;     3;   -1.1e30;  7550.00
+RE-LIM-FORM-PER-PAT ;       22; 2025/03; 2025/03;     1;   -1.1e30;  7310.00
+RE-LIM-FORM-PER-PAT ;       22; 2025/03; 2025/03;     2;   -1.1e30;  6114.00
+RE-LIM-FORM-PER-PAT ;       22; 2025/03; 2025/03;     3;   -1.1e30;  7700.00
+& Limite FNS + FNESE + XINGU->SE/CO +  = Limite 11-1 + Limite 3-1 + + Limite 4-1 + Lajeado + Peixe Angical 
+RE-LIM-FORM-PER-PAT ;       23; 2025/04; 2025/06;     1;   -1.1e30; 16800.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/04; 2025/06;     2;   -1.1e30; 16100.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/04; 2025/06;     3;   -1.1e30; 16800.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/07; 2025/07;     1;   -1.1e30; 16000.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/07; 2025/07;     2;   -1.1e30; 14900.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/07; 2025/07;     3;   -1.1e30; 16000.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/08; 2025/10;     1;   -1.1e30; 15000.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/08; 2025/10;     2;   -1.1e30; 13900.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/08; 2025/10;     3;   -1.1e30; 15000.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/11; 2025/11;     1;   -1.1e30; 16000.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/11; 2025/11;     2;   -1.1e30; 14900.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/11; 2025/11;     3;   -1.1e30; 16000.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/12; 2025/12;     1;   -1.1e30; 17000.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/12; 2025/12;     2;   -1.1e30; 15900.00
+RE-LIM-FORM-PER-PAT ;       23; 2025/12; 2025/12;     3;   -1.1e30; 17000.00
+RE-LIM-FORM-PER-PAT ;       23; 2026/01; 2026/01;     1;   -1.1e30; 17700.00
+RE-LIM-FORM-PER-PAT ;       23; 2026/01; 2026/01;     2;   -1.1e30; 16400.00
+RE-LIM-FORM-PER-PAT ;       23; 2026/01; 2026/01;     3;   -1.1e30; 17700.00

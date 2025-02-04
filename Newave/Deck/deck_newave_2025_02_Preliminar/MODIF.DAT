@@ -1,0 +1,1658 @@
+ P.CHAVE  MODIFICACOES E INDICES
+ XXXXXXXX XXXXXXXXXXXXXXXXXXXXX
+ USINA    1                                 CAMARGOS    
+ VAZMIN       34
+ VMAXT     2 2025  94.000 '%'
+ VMAXT     3 2025 100.000 '%'
+ VMAXT    11 2025  94.000 '%'
+ VMAXT    12 2025  76.100 '%'
+ VMAXT     1 2026  74.700 '%'
+ VMAXT     2 2026  94.000 '%'
+ VMAXT     3 2026 100.000 '%'
+ VMAXT    11 2026  94.000 '%'
+ VMAXT    12 2026  76.100 '%'
+ VMAXT     1 2027  74.700 '%'
+ VMAXT     2 2027  94.000 '%'
+ VMAXT     3 2027 100.000 '%'
+ VMAXT    11 2027  94.000 '%'
+ VMAXT    12 2027  76.100 '%'
+ VMAXT     1 2028  74.700 '%'
+ VMAXT     2 2028  94.000 '%'
+ VMAXT     3 2028 100.000 '%'
+ VMAXT    11 2028  94.000 '%'
+ VMAXT    12 2028  76.100 '%'
+ VMAXT     1 2029  74.700 '%'
+ VMAXT     2 2029  94.000 '%'
+ VMAXT     3 2029 100.000 '%'
+ VMAXT    11 2029  94.000 '%'
+ VMAXT    12 2029  76.100 '%'
+ USINA    2                                 ITUTINGA    
+ VAZMIN       34
+ USINA    4                                 FUNIL-GRANDE
+ VAZMIN       70
+ USINA    6                                 FURNAS      
+ VAZMIN      131
+ VMAXT     2 2025  94.400 '%'
+ VMAXT     3 2025  97.000 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  96.900 '%'
+ VMAXT    12 2025  94.400 '%'
+ VMAXT     3 2026  97.000 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  96.900 '%'
+ VMAXT    12 2026  94.400 '%'
+ VMAXT     3 2027  97.000 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  96.900 '%'
+ VMAXT    12 2027  94.400 '%'
+ VMAXT     3 2028  97.000 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  96.900 '%'
+ VMAXT    12 2028  94.400 '%'
+ VMAXT     3 2029  97.000 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  96.900 '%'
+ VMAXT    12 2029  94.400 '%'
+ TURBMAXT  2 2025 99999.0
+ USINA    7                                 M. DE MORAES
+ VAZMIN      149
+ VMINT     2 2025  13.230 '%'
+ VMAXT     2 2025  84.600 '%'
+ VMAXT     3 2025  93.800 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  85.600 '%'
+ VMAXT    12 2025  80.000 '%'
+ VMAXT     2 2026  84.600 '%'
+ VMAXT     3 2026  93.800 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  85.600 '%'
+ VMAXT    12 2026  80.000 '%'
+ VMAXT     2 2027  84.600 '%'
+ VMAXT     3 2027  93.800 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  85.600 '%'
+ VMAXT    12 2027  80.000 '%'
+ VMAXT     2 2028  84.600 '%'
+ VMAXT     3 2028  93.800 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  85.600 '%'
+ VMAXT    12 2028  80.000 '%'
+ VMAXT     2 2029  84.600 '%'
+ VMAXT     3 2029  93.800 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  85.600 '%'
+ VMAXT    12 2029  80.000 '%'
+ USINA    8                                 ESTREITO    
+ VAZMIN      153
+ USINA    9                                 JAGUARA     
+ VAZMIN      168
+ USINA    10                                IGARAPAVA   
+ VAZMIN      172
+ USINA    11                                VOLTA GRANDE
+ VAZMIN      178
+ USINA    12                                P. COLOMBIA 
+ VAZMIN      189
+ USINA    14                                CACONDE     
+ VAZMINT   2 2025   32.00
+ VMAXT     2 2025  98.000 '%'
+ VMAXT     3 2025 100.000 '%'
+ VMAXT    11 2025  94.000 '%'
+ VMAXT     1 2026  96.000 '%'
+ VMAXT     2 2026  98.000 '%'
+ VMAXT     3 2026 100.000 '%'
+ VMAXT    11 2026  94.000 '%'
+ VMAXT     1 2027  96.000 '%'
+ VMAXT     2 2027  98.000 '%'
+ VMAXT     3 2027 100.000 '%'
+ VMAXT    11 2027  94.000 '%'
+ VMAXT     1 2028  96.000 '%'
+ VMAXT     2 2028  98.000 '%'
+ VMAXT     3 2028 100.000 '%'
+ VMAXT    11 2028  94.000 '%'
+ VMAXT     1 2029  96.000 '%'
+ VMAXT     2 2029  98.000 '%'
+ VMAXT     3 2029 100.000 '%'
+ VMAXT    11 2029  94.000 '%'
+ USINA    16                                A.S.OLIVEIRA
+ VAZMIN       19
+ USINA    17                                MARIMBONDO  
+ VAZMIN      312
+ VMINT     2 2025  15.000 '%'
+ VMINT     3 2025   0.000 '%'
+ VMAXT     2 2025  81.700 '%'
+ VMAXT     3 2025  86.300 '%'
+ VMAXT     4 2025  90.900 '%'
+ VMAXT    11 2025  79.300 '%'
+ VMAXT    12 2025  74.800 '%'
+ VMAXT     1 2026  77.700 '%'
+ VMAXT     2 2026  81.700 '%'
+ VMAXT     3 2026  86.300 '%'
+ VMAXT     4 2026  90.900 '%'
+ VMAXT    11 2026  79.300 '%'
+ VMAXT    12 2026  74.800 '%'
+ VMAXT     1 2027  77.700 '%'
+ VMAXT     2 2027  81.700 '%'
+ VMAXT     3 2027  86.300 '%'
+ VMAXT     4 2027  90.900 '%'
+ VMAXT    11 2027  79.300 '%'
+ VMAXT    12 2027  74.800 '%'
+ VMAXT     1 2028  77.700 '%'
+ VMAXT     2 2028  81.700 '%'
+ VMAXT     3 2028  86.300 '%'
+ VMAXT     4 2028  90.900 '%'
+ VMAXT    11 2028  79.300 '%'
+ VMAXT    12 2028  74.800 '%'
+ VMAXT     1 2029  77.700 '%'
+ VMAXT     2 2029  81.700 '%'
+ VMAXT     3 2029  86.300 '%'
+ VMAXT     4 2029  90.900 '%'
+ VMAXT    11 2029  79.300 '%'
+ VMAXT    12 2029  74.800 '%'
+ TURBMINT  2 2025 330.00
+ TURBMINT  3 2025   0.00
+ TURBMINT 11 2025 330.00
+ TURBMINT  3 2026   0.00
+ TURBMINT 11 2026 330.00
+ TURBMINT  3 2027   0.00
+ TURBMINT 11 2027 330.00
+ TURBMINT  3 2028   0.00
+ TURBMINT 11 2028 330.00
+ TURBMINT  3 2029   0.00
+ TURBMINT 11 2029 330.00
+ USINA    18                                A. VERMELHA 
+ VMINT     2 2025  15.000 '%'
+ VMINT     3 2025   0.000 '%'
+ VMAXT     2 2025  89.500 '%'
+ VMAXT     3 2025  94.800 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  86.800 '%'
+ VMAXT    12 2025  68.000 '%'
+ VMAXT     1 2026  85.000 '%'
+ VMAXT     2 2026  89.500 '%'
+ VMAXT     3 2026  94.800 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  86.800 '%'
+ VMAXT    12 2026  68.000 '%'
+ VMAXT     1 2027  85.000 '%'
+ VMAXT     2 2027  89.500 '%'
+ VMAXT     3 2027  94.800 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  86.800 '%'
+ VMAXT    12 2027  68.000 '%'
+ VMAXT     1 2028  85.000 '%'
+ VMAXT     2 2028  89.500 '%'
+ VMAXT     3 2028  94.800 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  86.800 '%'
+ VMAXT    12 2028  68.000 '%'
+ VMAXT     1 2029  85.000 '%'
+ VMAXT     2 2029  89.500 '%'
+ VMAXT     3 2029  94.800 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  86.800 '%'
+ VMAXT    12 2029  68.000 '%'
+ TURBMINT  2 2025 400.00
+ USINA    20                                BATALHA     
+ VAZMINT   2 2025   30.10
+ VAZMINT   5 2025   23.00
+ VAZMINT  11 2025   30.10
+ VAZMINT   5 2026   23.00
+ VAZMINT  11 2026   30.10
+ VAZMINT   5 2027   23.00
+ VAZMINT  11 2027   30.10
+ VAZMINT   5 2028   23.00
+ VAZMINT  11 2028   30.10
+ VAZMINT   5 2029   23.00
+ VAZMINT  11 2029   30.10
+ USINA    24                                EMBORCACAO  
+ VMAXT     2 2025  97.700 '%'
+ VMAXT     3 2025  99.400 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  97.800 '%'
+ VMAXT    12 2025  96.600 '%'
+ VMAXT     1 2026  97.100 '%'
+ VMAXT     2 2026  97.700 '%'
+ VMAXT     3 2026  99.400 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  97.800 '%'
+ VMAXT    12 2026  96.600 '%'
+ VMAXT     1 2027  97.100 '%'
+ VMAXT     2 2027  97.700 '%'
+ VMAXT     3 2027  99.400 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  97.800 '%'
+ VMAXT    12 2027  96.600 '%'
+ VMAXT     1 2028  97.100 '%'
+ VMAXT     2 2028  97.700 '%'
+ VMAXT     3 2028  99.400 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  97.800 '%'
+ VMAXT    12 2028  96.600 '%'
+ VMAXT     1 2029  97.100 '%'
+ VMAXT     2 2029  97.700 '%'
+ VMAXT     3 2029  99.400 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  97.800 '%'
+ VMAXT    12 2029  96.600 '%'
+ TURBMAXT  2 2025  140.00
+ TURBMAXT  3 2025 99999.0
+ USINA    25                                NOVA PONTE  
+ VAZMINT   2 2025   55.00
+ VAZMINT   5 2025   40.00
+ VAZMINT  11 2025   55.00
+ VAZMINT   5 2026   40.00
+ VAZMINT  11 2026   55.00
+ VAZMINT   5 2027   40.00
+ VAZMINT  11 2027   55.00
+ VAZMINT   5 2028   40.00
+ VAZMINT  11 2028   55.00
+ VAZMINT   5 2029   40.00
+ VAZMINT  11 2029   55.00
+ VMAXT     2 2025  98.000 '%'
+ VMAXT     3 2025  98.900 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  98.100 '%'
+ VMAXT    12 2025  97.200 '%'
+ VMAXT     1 2026  97.600 '%'
+ VMAXT     2 2026  98.000 '%'
+ VMAXT     3 2026  98.900 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  98.100 '%'
+ VMAXT    12 2026  97.200 '%'
+ VMAXT     1 2027  97.600 '%'
+ VMAXT     2 2027  98.000 '%'
+ VMAXT     3 2027  98.900 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  98.100 '%'
+ VMAXT    12 2027  97.200 '%'
+ VMAXT     1 2028  97.600 '%'
+ VMAXT     2 2028  98.000 '%'
+ VMAXT     3 2028  98.900 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  98.100 '%'
+ VMAXT    12 2028  97.200 '%'
+ VMAXT     1 2029  97.600 '%'
+ VMAXT     2 2029  98.000 '%'
+ VMAXT     3 2029  98.900 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  98.100 '%'
+ VMAXT    12 2029  97.200 '%'
+ USINA    26                                MIRANDA     
+ VAZMINT   2 2025  135.00
+ VAZMINT   5 2025   42.00
+ VAZMINT  11 2025  135.00
+ VAZMINT   5 2026   42.00
+ VAZMINT  11 2026  135.00
+ VAZMINT   5 2027   42.00
+ VAZMINT  11 2027  135.00
+ VAZMINT   5 2028   42.00
+ VAZMINT  11 2028  135.00
+ VAZMINT   5 2029   42.00
+ VAZMINT  11 2029  135.00
+ USINA    27                                CAPIM BRANC1
+ VAZMIN       72
+ USINA    28                                CAPIM BRANC2
+ VAZMIN       72
+ USINA    29                                CORUMBA IV  
+ VAZMINT   2 2025   13.70
+ USINA    30                                CORUMBA I   
+ VAZMIN      120
+ USINA    31                                ITUMBIARA   
+ VAZMIN       70
+ VMAXT     2 2025  94.700 '%'
+ VMAXT     3 2025  97.100 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  95.000 '%'
+ VMAXT    12 2025  90.700 '%'
+ VMAXT     1 2026  93.000 '%'
+ VMAXT     2 2026  94.700 '%'
+ VMAXT     3 2026  97.100 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  95.000 '%'
+ VMAXT    12 2026  90.700 '%'
+ VMAXT     1 2027  93.000 '%'
+ VMAXT     2 2027  94.700 '%'
+ VMAXT     3 2027  97.100 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  95.000 '%'
+ VMAXT    12 2027  90.700 '%'
+ VMAXT     1 2028  93.000 '%'
+ VMAXT     2 2028  94.700 '%'
+ VMAXT     3 2028  97.100 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  95.000 '%'
+ VMAXT    12 2028  90.700 '%'
+ VMAXT     1 2029  93.000 '%'
+ VMAXT     2 2029  94.700 '%'
+ VMAXT     3 2029  97.100 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  95.000 '%'
+ VMAXT    12 2029  90.700 '%'
+ USINA    32                                CACH.DOURADA
+ VAZMIN       20
+ USINA    33                                SAO SIMAO   
+ VAZMIN      450
+ VMINT     2 2025  15.000 '%'
+ VMINT     3 2025   0.000 '%'
+ VMAXT     2 2025  88.500 '%'
+ VMAXT     3 2025  94.400 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  82.000 '%'
+ VMAXT    12 2025  65.100 '%'
+ VMAXT     1 2026  79.600 '%'
+ VMAXT     2 2026  88.500 '%'
+ VMAXT     3 2026  94.400 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  82.000 '%'
+ VMAXT    12 2026  65.100 '%'
+ VMAXT     1 2027  79.600 '%'
+ VMAXT     2 2027  88.500 '%'
+ VMAXT     3 2027  94.400 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  82.000 '%'
+ VMAXT    12 2027  65.100 '%'
+ VMAXT     1 2028  79.600 '%'
+ VMAXT     2 2028  88.500 '%'
+ VMAXT     3 2028  94.400 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  82.000 '%'
+ VMAXT    12 2028  65.100 '%'
+ VMAXT     1 2029  79.600 '%'
+ VMAXT     2 2029  88.500 '%'
+ VMAXT     3 2029  94.400 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  82.000 '%'
+ VMAXT    12 2029  65.100 '%'
+ TURBMINT  2 2025 296.00
+ TURBMINT  3 2025   0.00
+ TURBMINT 11 2025 296.00
+ TURBMINT  3 2026   0.00
+ TURBMINT 11 2026 296.00
+ TURBMINT  3 2027   0.00
+ TURBMINT 11 2027 296.00
+ TURBMINT  3 2028   0.00
+ TURBMINT 11 2028 296.00
+ TURBMINT  3 2029   0.00
+ TURBMINT 11 2029 296.00
+ USINA    47                                A.A. LAYDNER
+ VAZMINT   2 2025   90.00
+ VAZMINT  10 2025  147.00
+ VMAXT     2 2025  95.000 '%'
+ VMAXT     3 2025 100.000 '%'
+ VMAXT     4 2025  98.400 '%'
+ VMAXT     5 2025  87.500 '%'
+ VMAXT     6 2025  91.600 '%'
+ VMAXT     7 2025  93.600 '%'
+ VMAXT     8 2025  96.000 '%'
+ VMAXT     9 2025  87.700 '%'
+ VMAXT    10 2025  97.500 '%'
+ VMAXT    11 2025  97.700 '%'
+ VMAXT    12 2025  88.700 '%'
+ VMAXT     2 2026  95.000 '%'
+ VMAXT     3 2026 100.000 '%'
+ VMAXT     4 2026  98.400 '%'
+ VMAXT     5 2026  87.500 '%'
+ VMAXT     6 2026  91.600 '%'
+ VMAXT     7 2026  93.600 '%'
+ VMAXT     8 2026  96.000 '%'
+ VMAXT     9 2026  87.700 '%'
+ VMAXT    10 2026  97.500 '%'
+ VMAXT    11 2026  97.700 '%'
+ VMAXT    12 2026  88.700 '%'
+ VMAXT     2 2027  95.000 '%'
+ VMAXT     3 2027 100.000 '%'
+ VMAXT     4 2027  98.400 '%'
+ VMAXT     5 2027  87.500 '%'
+ VMAXT     6 2027  91.600 '%'
+ VMAXT     7 2027  93.600 '%'
+ VMAXT     8 2027  96.000 '%'
+ VMAXT     9 2027  87.700 '%'
+ VMAXT    10 2027  97.500 '%'
+ VMAXT    11 2027  97.700 '%'
+ VMAXT    12 2027  88.700 '%'
+ VMAXT     2 2028  95.000 '%'
+ VMAXT     3 2028 100.000 '%'
+ VMAXT     4 2028  98.400 '%'
+ VMAXT     5 2028  87.500 '%'
+ VMAXT     6 2028  91.600 '%'
+ VMAXT     7 2028  93.600 '%'
+ VMAXT     8 2028  96.000 '%'
+ VMAXT     9 2028  87.700 '%'
+ VMAXT    10 2028  97.500 '%'
+ VMAXT    11 2028  97.700 '%'
+ VMAXT    12 2028  88.700 '%'
+ VMAXT     2 2029  95.000 '%'
+ VMAXT     3 2029 100.000 '%'
+ VMAXT     4 2029  98.400 '%'
+ VMAXT     5 2029  87.500 '%'
+ VMAXT     6 2029  91.600 '%'
+ VMAXT     7 2029  93.600 '%'
+ VMAXT     8 2029  96.000 '%'
+ VMAXT     9 2029  87.700 '%'
+ VMAXT    10 2029  97.500 '%'
+ VMAXT    11 2029  97.700 '%'
+ VMAXT    12 2029  88.700 '%'
+ USINA    48                                PIRAJU
+ TURBMINT  2 2025  90.00
+ USINA    49                                CHAVANTES   
+ VAZMIN       85
+ VMAXT     2 2025  95.000 '%'
+ VMAXT     3 2025 100.000 '%'
+ VMAXT     5 2025  87.600 '%'
+ VMAXT     6 2025  91.600 '%'
+ VMAXT     7 2025  93.700 '%'
+ VMAXT     8 2025  95.000 '%'
+ VMAXT     9 2025  87.700 '%'
+ VMAXT    10 2025  97.500 '%'
+ VMAXT    11 2025  97.700 '%'
+ VMAXT    12 2025  88.700 '%'
+ VMAXT     1 2026  86.100 '%'
+ VMAXT     2 2026  95.000 '%'
+ VMAXT     3 2026 100.000 '%'
+ VMAXT     5 2026  87.600 '%'
+ VMAXT     6 2026  91.600 '%'
+ VMAXT     7 2026  93.700 '%'
+ VMAXT     8 2026  95.000 '%'
+ VMAXT     9 2026  87.700 '%'
+ VMAXT    10 2026  97.500 '%'
+ VMAXT    11 2026  97.700 '%'
+ VMAXT    12 2026  88.700 '%'
+ VMAXT     1 2027  86.100 '%'
+ VMAXT     2 2027  95.000 '%'
+ VMAXT     3 2027 100.000 '%'
+ VMAXT     5 2027  87.600 '%'
+ VMAXT     6 2027  91.600 '%'
+ VMAXT     7 2027  93.700 '%'
+ VMAXT     8 2027  95.000 '%'
+ VMAXT     9 2027  87.700 '%'
+ VMAXT    10 2027  97.500 '%'
+ VMAXT    11 2027  97.700 '%'
+ VMAXT    12 2027  88.700 '%'
+ VMAXT     1 2028  86.100 '%'
+ VMAXT     2 2028  95.000 '%'
+ VMAXT     3 2028 100.000 '%'
+ VMAXT     5 2028  87.600 '%'
+ VMAXT     6 2028  91.600 '%'
+ VMAXT     7 2028  93.700 '%'
+ VMAXT     8 2028  95.000 '%'
+ VMAXT     9 2028  87.700 '%'
+ VMAXT    10 2028  97.500 '%'
+ VMAXT    11 2028  97.700 '%'
+ VMAXT    12 2028  88.700 '%'
+ VMAXT     1 2029  86.100 '%'
+ VMAXT     2 2029  95.000 '%'
+ VMAXT     3 2029 100.000 '%'
+ VMAXT     5 2029  87.600 '%'
+ VMAXT     6 2029  91.600 '%'
+ VMAXT     7 2029  93.700 '%'
+ VMAXT     8 2029  95.000 '%'
+ VMAXT     9 2029  87.700 '%'
+ VMAXT    10 2029  97.500 '%'
+ VMAXT    11 2029  97.700 '%'
+ VMAXT    12 2029  88.700 '%'
+ USINA    50                                L.N. GARCEZ
+ VAZMIN      127
+ USINA    51                                CANOAS II   
+ VAZMIN      130
+ USINA    52                                CANOAS I
+ VAZMIN      137
+ USINA    37                                BARRA BONITA
+ VMINT     2 2025  48.290 '%'
+ VMAXT     2 2025  95.100 '%'
+ VMAXT     3 2025  96.800 '%'
+ VMAXT     4 2025  99.200 '%'
+ VMAXT     5 2025  99.600 '%'
+ VMAXT     6 2025 100.000 '%'
+ VMAXT    11 2025  94.100 '%'
+ VMAXT    12 2025  92.000 '%'
+ VMAXT     1 2026  93.300 '%'
+ VMAXT     2 2026  95.100 '%'
+ VMAXT     3 2026  96.800 '%'
+ VMAXT     4 2026  99.200 '%'
+ VMAXT     5 2026  99.600 '%'
+ VMAXT     6 2026 100.000 '%'
+ VMAXT    11 2026  94.100 '%'
+ VMAXT    12 2026  92.000 '%'
+ VMAXT     1 2027  93.300 '%'
+ VMAXT     2 2027  95.100 '%'
+ VMAXT     3 2027  96.800 '%'
+ VMAXT     4 2027  99.200 '%'
+ VMAXT     5 2027  99.600 '%'
+ VMAXT     6 2027 100.000 '%'
+ VMAXT    11 2027  94.100 '%'
+ VMAXT    12 2027  92.000 '%'
+ VMAXT     1 2028  93.300 '%'
+ VMAXT     2 2028  95.100 '%'
+ VMAXT     3 2028  96.800 '%'
+ VMAXT     4 2028  99.200 '%'
+ VMAXT     5 2028  99.600 '%'
+ VMAXT     6 2028 100.000 '%'
+ VMAXT    11 2028  94.100 '%'
+ VMAXT    12 2028  92.000 '%'
+ VMAXT     1 2029  93.300 '%'
+ VMAXT     2 2029  95.100 '%'
+ VMAXT     3 2029  96.800 '%'
+ VMAXT     4 2029  99.200 '%'
+ VMAXT     5 2029  99.600 '%'
+ VMAXT     6 2029 100.000 '%'
+ VMAXT    11 2029  94.100 '%'
+ VMAXT    12 2029  92.000 '%'
+ USINA    40                                PROMISSAO   
+ VAZMIN      160
+ VMINT     2 2025  28.950 '%'
+ VMAXT     2 2025  91.600 '%'
+ VMAXT     3 2025  95.800 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  55.300 '%'
+ VMAXT     1 2026  57.700 '%'
+ VMAXT     2 2026  91.600 '%'
+ VMAXT     3 2026  95.800 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  55.300 '%'
+ VMAXT     1 2027  57.700 '%'
+ VMAXT     2 2027  91.600 '%'
+ VMAXT     3 2027  95.800 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  55.300 '%'
+ VMAXT     1 2028  57.700 '%'
+ VMAXT     2 2028  91.600 '%'
+ VMAXT     3 2028  95.800 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  55.300 '%'
+ VMAXT     1 2029  57.700 '%'
+ VMAXT     2 2029  91.600 '%'
+ VMAXT     3 2029  95.800 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  55.300 '%'
+ USINA    43                                TRES IRMAOS
+ VMINT     2 2025  45.570 '%'
+ VMAXT     2 2025  76.390 '%'
+ VMAXT     3 2025  91.950 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  65.860 '%'
+ VMAXT     2 2026  76.390 '%'
+ VMAXT     3 2026  91.950 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  65.860 '%'
+ VMAXT     2 2027  76.390 '%'
+ VMAXT     3 2027  91.950 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  65.860 '%'
+ VMAXT     2 2028  76.390 '%'
+ VMAXT     3 2028  91.950 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  65.860 '%'
+ VMAXT     2 2029  76.390 '%'
+ VMAXT     3 2029  91.950 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  65.860 '%'
+ TURBMINT  2 2025 180.00
+ USINA    117                               GUARAPIRANGA
+ VMAXT     2 2025  85.720 '%'
+ VMAXT     3 2025  85.850 '%'
+ VMAXT     4 2025  92.760 '%'
+ VMAXT     7 2025  95.390 '%'
+ VMAXT    11 2025  94.560 '%'
+ VMAXT    12 2025  89.020 '%'
+ VMAXT     1 2026  77.120 '%'
+ VMAXT     2 2026  85.720 '%'
+ VMAXT     3 2026  85.850 '%'
+ VMAXT     4 2026  92.760 '%'
+ VMAXT     7 2026  95.390 '%'
+ VMAXT    11 2026  94.560 '%'
+ VMAXT    12 2026  89.020 '%'
+ VMAXT     1 2027  77.120 '%'
+ VMAXT     2 2027  85.720 '%'
+ VMAXT     3 2027  85.850 '%'
+ VMAXT     4 2027  92.760 '%'
+ VMAXT     7 2027  95.390 '%'
+ VMAXT    11 2027  94.560 '%'
+ VMAXT    12 2027  89.020 '%'
+ VMAXT     1 2028  77.120 '%'
+ VMAXT     2 2028  85.720 '%'
+ VMAXT     3 2028  85.850 '%'
+ VMAXT     4 2028  92.760 '%'
+ VMAXT     7 2028  95.390 '%'
+ VMAXT    11 2028  94.560 '%'
+ VMAXT    12 2028  89.020 '%'
+ VMAXT     1 2029  77.120 '%'
+ VMAXT     2 2029  85.720 '%'
+ VMAXT     3 2029  85.850 '%'
+ VMAXT     4 2029  92.760 '%'
+ VMAXT     7 2029  95.390 '%'
+ VMAXT    11 2029  94.560 '%'
+ VMAXT    12 2029  89.020 '%'
+ USINA    118                               BILLINGS    
+ VAZMIN        6
+ VMAXT     2 2025  84.300 '%'
+ VMAXT     3 2025  87.150 '%'
+ VMAXT     4 2025  88.850 '%'
+ VMAXT     5 2025  89.960 '%'
+ VMAXT     6 2025  90.260 '%'
+ VMAXT     7 2025  91.670 '%'
+ VMAXT     8 2025  92.280 '%'
+ VMAXT     9 2025  91.370 '%'
+ VMAXT    10 2025  89.450 '%'
+ VMAXT    11 2025  87.950 '%'
+ VMAXT    12 2025  87.050 '%'
+ VMAXT     1 2026  80.990 '%'
+ VMAXT     2 2026  84.300 '%'
+ VMAXT     3 2026  87.150 '%'
+ VMAXT     4 2026  88.850 '%'
+ VMAXT     5 2026  89.960 '%'
+ VMAXT     6 2026  90.260 '%'
+ VMAXT     7 2026  91.670 '%'
+ VMAXT     8 2026  92.280 '%'
+ VMAXT     9 2026  91.370 '%'
+ VMAXT    10 2026  89.450 '%'
+ VMAXT    11 2026  87.950 '%'
+ VMAXT    12 2026  87.050 '%'
+ VMAXT     1 2027  80.990 '%'
+ VMAXT     2 2027  84.300 '%'
+ VMAXT     3 2027  87.150 '%'
+ VMAXT     4 2027  88.850 '%'
+ VMAXT     5 2027  89.960 '%'
+ VMAXT     6 2027  90.260 '%'
+ VMAXT     7 2027  91.670 '%'
+ VMAXT     8 2027  92.280 '%'
+ VMAXT     9 2027  91.370 '%'
+ VMAXT    10 2027  89.450 '%'
+ VMAXT    11 2027  87.950 '%'
+ VMAXT    12 2027  87.050 '%'
+ VMAXT     1 2028  80.990 '%'
+ VMAXT     2 2028  84.300 '%'
+ VMAXT     3 2028  87.150 '%'
+ VMAXT     4 2028  88.850 '%'
+ VMAXT     5 2028  89.960 '%'
+ VMAXT     6 2028  90.260 '%'
+ VMAXT     7 2028  91.670 '%'
+ VMAXT     8 2028  92.280 '%'
+ VMAXT     9 2028  91.370 '%'
+ VMAXT    10 2028  89.450 '%'
+ VMAXT    11 2028  87.950 '%'
+ VMAXT    12 2028  87.050 '%'
+ VMAXT     1 2029  80.990 '%'
+ VMAXT     2 2029  84.300 '%'
+ VMAXT     3 2029  87.150 '%'
+ VMAXT     4 2029  88.850 '%'
+ VMAXT     5 2029  89.960 '%'
+ VMAXT     6 2029  90.260 '%'
+ VMAXT     7 2029  91.670 '%'
+ VMAXT     8 2029  92.280 '%'
+ VMAXT     9 2029  91.370 '%'
+ VMAXT    10 2029  89.450 '%'
+ VMAXT    11 2029  87.950 '%'
+ VMAXT    12 2029  87.050 '%'
+ USINA    119                               HENRY BORDEN
+ VAZMIN        6
+ USINA    120                               JAGUARI
+ VAZMIN        4
+ VMINT     2 2025  50.000 '%'
+ VMINT     3 2025  20.000 '%'
+ USINA    121                               PARAIBUNA   
+ VAZMIN       10
+ VMINT     2 2025  40.000 '%'
+ VMINT     3 2025   5.000 '%'
+ USINA    122                               SANTA BRANCA
+ VAZMIN       30
+ VMINT     2 2025  40.000 '%'
+ VMINT     3 2025  10.000 '%'
+ VMAXT     2 2025  48.700 '%'
+ VMAXT     3 2025  80.500 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  83.700 '%'
+ VMAXT    12 2025  80.500 '%'
+ VMAXT     1 2026  54.500 '%'
+ VMAXT     2 2026  48.700 '%'
+ VMAXT     3 2026  80.500 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  83.700 '%'
+ VMAXT    12 2026  80.500 '%'
+ VMAXT     1 2027  54.500 '%'
+ VMAXT     2 2027  48.700 '%'
+ VMAXT     3 2027  80.500 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  83.700 '%'
+ VMAXT    12 2027  80.500 '%'
+ VMAXT     1 2028  54.500 '%'
+ VMAXT     2 2028  48.700 '%'
+ VMAXT     3 2028  80.500 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  83.700 '%'
+ VMAXT    12 2028  80.500 '%'
+ VMAXT     1 2029  54.500 '%'
+ VMAXT     2 2029  48.700 '%'
+ VMAXT     3 2029  80.500 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  83.700 '%'
+ VMAXT    12 2029  80.500 '%'
+ USINA    123                               FUNIL
+ VAZMIN       70
+ VMINT     2 2025  30.000 '%'
+ VMAXT     2 2025  48.500 '%'
+ VMAXT     3 2025  78.500 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  76.800 '%'
+ VMAXT    12 2025  30.600 '%'
+ VMAXT     1 2026  47.100 '%'
+ VMAXT     2 2026  48.500 '%'
+ VMAXT     3 2026  78.500 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  76.800 '%'
+ VMAXT    12 2026  30.600 '%'
+ VMAXT     1 2027  47.100 '%'
+ VMAXT     2 2027  48.500 '%'
+ VMAXT     3 2027  78.500 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  76.800 '%'
+ VMAXT    12 2027  30.600 '%'
+ VMAXT     1 2028  47.100 '%'
+ VMAXT     2 2028  48.500 '%'
+ VMAXT     3 2028  78.500 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  76.800 '%'
+ VMAXT    12 2028  30.600 '%'
+ VMAXT     1 2029  47.100 '%'
+ VMAXT     2 2029  48.500 '%'
+ VMAXT     3 2029  78.500 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  76.800 '%'
+ VMAXT    12 2029  30.600 '%'
+ USINA    124                               LAJES       
+ VAZMINT   2 2025    5.50
+ VMINT     2 2025  17.890 '%'
+ VMAXT     2 2025  83.690 '%'
+ VMAXT     3 2025  91.570 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT     6 2025  96.680 '%'
+ VMAXT     7 2025  93.080 '%'
+ VMAXT     8 2025  89.830 '%'
+ VMAXT     9 2025  86.690 '%'
+ VMAXT    10 2025  83.690 '%'
+ VMAXT     3 2026  91.570 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT     6 2026  96.680 '%'
+ VMAXT     7 2026  93.080 '%'
+ VMAXT     8 2026  89.830 '%'
+ VMAXT     9 2026  86.690 '%'
+ VMAXT    10 2026  83.690 '%'
+ VMAXT     3 2027  91.570 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT     6 2027  96.680 '%'
+ VMAXT     7 2027  93.080 '%'
+ VMAXT     8 2027  89.830 '%'
+ VMAXT     9 2027  86.690 '%'
+ VMAXT    10 2027  83.690 '%'
+ VMAXT     3 2028  91.570 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT     6 2028  96.680 '%'
+ VMAXT     7 2028  93.080 '%'
+ VMAXT     8 2028  89.830 '%'
+ VMAXT     9 2028  86.690 '%'
+ VMAXT    10 2028  83.690 '%'
+ VMAXT     3 2029  91.570 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT     6 2029  96.680 '%'
+ VMAXT     7 2029  93.080 '%'
+ VMAXT     8 2029  89.830 '%'
+ VMAXT     9 2029  86.690 '%'
+ VMAXT    10 2029  83.690 '%'
+ USINA    135                               P. ESTRELA  
+ VOLMIN             95.37 'h'
+ VOLMAX             95.37 'h'
+ VOLCOTA  256.72 0.00 0.00 0.00 0.00
+ USINA    148                               IRAPE       
+ VAZMINT   2 2025   23.40
+ VMAXT     2 2025  94.500 '%'
+ VMAXT     3 2025  97.800 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  87.500 '%'
+ VMAXT    12 2025  87.800 '%'
+ VMAXT     1 2026  89.900 '%'
+ VMAXT     2 2026  94.500 '%'
+ VMAXT     3 2026  97.800 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  87.500 '%'
+ VMAXT    12 2026  87.800 '%'
+ VMAXT     1 2027  89.900 '%'
+ VMAXT     2 2027  94.500 '%'
+ VMAXT     3 2027  97.800 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  87.500 '%'
+ VMAXT    12 2027  87.800 '%'
+ VMAXT     1 2028  89.900 '%'
+ VMAXT     2 2028  94.500 '%'
+ VMAXT     3 2028  97.800 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  87.500 '%'
+ VMAXT    12 2028  87.800 '%'
+ VMAXT     1 2029  89.900 '%'
+ VMAXT     2 2029  94.500 '%'
+ VMAXT     3 2029  97.800 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  87.500 '%'
+ VMAXT    12 2029  87.800 '%'
+ USINA    155                               RETIRO BAIXO
+ VAZMINT   2 2025   27.67
+ USINA    156                               TRES MARIAS 
+ VAZMINT   2 2025  150.00
+ VMAXT     2 2025  89.000 '%'
+ VMAXT     3 2025  97.300 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  84.800 '%'
+ VMAXT    12 2025  70.200 '%'
+ VMAXT     1 2026  75.100 '%'
+ VMAXT     2 2026  89.000 '%'
+ VMAXT     3 2026  97.300 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  84.800 '%'
+ VMAXT    12 2026  70.200 '%'
+ VMAXT     1 2027  75.100 '%'
+ VMAXT     2 2027  89.000 '%'
+ VMAXT     3 2027  97.300 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  84.800 '%'
+ VMAXT    12 2027  70.200 '%'
+ VMAXT     1 2028  75.100 '%'
+ VMAXT     2 2028  89.000 '%'
+ VMAXT     3 2028  97.300 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  84.800 '%'
+ VMAXT    12 2028  70.200 '%'
+ VMAXT     1 2029  75.100 '%'
+ VMAXT     2 2029  89.000 '%'
+ VMAXT     3 2029  97.300 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  84.800 '%'
+ VMAXT    12 2029  70.200 '%'
+ TURBMAXT  2 2025 99999.0
+ USINA    162                               QUEIMADO    
+ VAZMINT   2 2025    8.80
+ VAZMINT   5 2025   17.00
+ VAZMINT  11 2025    8.80
+ VAZMINT   5 2026   17.00
+ VAZMINT  11 2026    8.80
+ VAZMINT   5 2027   17.00
+ VAZMINT  11 2027    8.80
+ VAZMINT   5 2028   17.00
+ VAZMINT  11 2028    8.80
+ VAZMINT   5 2029   17.00
+ VAZMINT  11 2029    8.80
+ VMINT     2 2025   0.000 '%'
+ VMAXT     2 2025  92.200 '%'
+ VMAXT     3 2025  97.400 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  79.400 '%'
+ VMAXT    12 2025  82.000 '%'
+ VMAXT     1 2026  87.100 '%'
+ VMAXT     2 2026  92.200 '%'
+ VMAXT     3 2026  97.400 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  79.400 '%'
+ VMAXT    12 2026  82.000 '%'
+ VMAXT     1 2027  87.100 '%'
+ VMAXT     2 2027  92.200 '%'
+ VMAXT     3 2027  97.400 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  79.400 '%'
+ VMAXT    12 2027  82.000 '%'
+ VMAXT     1 2028  87.100 '%'
+ VMAXT     2 2028  92.200 '%'
+ VMAXT     3 2028  97.400 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  79.400 '%'
+ VMAXT    12 2028  82.000 '%'
+ VMAXT     1 2029  87.100 '%'
+ VMAXT     2 2029  92.200 '%'
+ VMAXT     3 2029  97.400 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  79.400 '%'
+ VMAXT    12 2029  82.000 '%'
+ USINA    133                               P. PASSOS   
+ VAZMIN      120
+ USINA    285                               JIRAU
+ CFUGA     2 2025   74.51
+ CFUGA     3 2025   75.40
+ CFUGA     4 2025   74.83
+ CFUGA     5 2025   74.01
+ CFUGA     6 2025   72.84
+ CFUGA     7 2025   71.82
+ CFUGA     8 2025   71.14
+ CFUGA     9 2025   70.74
+ CFUGA    10 2025   70.76
+ CFUGA    11 2025   71.27
+ CFUGA    12 2025   72.22
+ CFUGA     1 2026   73.69
+ CFUGA     2 2026   74.51
+ CFUGA     3 2026   75.40
+ CFUGA     4 2026   74.83
+ CFUGA     5 2026   74.01
+ CFUGA     6 2026   72.84
+ CFUGA     7 2026   71.82
+ CFUGA     8 2026   71.14
+ CFUGA     9 2026   70.74
+ CFUGA    10 2026   70.76
+ CFUGA    11 2026   71.27
+ CFUGA    12 2026   72.22
+ CFUGA     1 2027   73.69
+ CFUGA     2 2027   74.51
+ CFUGA     3 2027   75.40
+ CFUGA     4 2027   74.83
+ CFUGA     5 2027   74.01
+ CFUGA     6 2027   72.84
+ CFUGA     7 2027   71.82
+ CFUGA     8 2027   71.14
+ CFUGA     9 2027   70.74
+ CFUGA    10 2027   70.76
+ CFUGA    11 2027   71.27
+ CFUGA    12 2027   72.22
+ CFUGA     1 2028   73.69
+ CFUGA     2 2028   74.51
+ CFUGA     3 2028   75.40
+ CFUGA     4 2028   74.83
+ CFUGA     5 2028   74.01
+ CFUGA     6 2028   72.84
+ CFUGA     7 2028   71.82
+ CFUGA     8 2028   71.14
+ CFUGA     9 2028   70.74
+ CFUGA    10 2028   70.76
+ CFUGA    11 2028   71.27
+ CFUGA    12 2028   72.22
+ CFUGA     1 2029   73.69
+ CFUGA     2 2029   74.51
+ CFUGA     3 2029   75.40
+ CFUGA     4 2029   74.83
+ CFUGA     5 2029   74.01
+ CFUGA     6 2029   72.84
+ CFUGA     7 2029   71.82
+ CFUGA     8 2029   71.14
+ CFUGA     9 2029   70.74
+ CFUGA    10 2029   70.76
+ CFUGA    11 2029   71.27
+ CFUGA    12 2029   72.77
+ USINA    287                               STO ANTONIO
+ CMONT     2 2025   70.49
+ CMONT     3 2025   70.47
+ CMONT     4 2025   70.57
+ CMONT     5 2025   70.79
+ CMONT     6 2025   71.11
+ CMONT     7 2025   71.08
+ CMONT     8 2025   71.00
+ CMONT     9 2025   70.92
+ CMONT    10 2025   70.65
+ CMONT    11 2025   70.66
+ CMONT    12 2025   70.94
+ CMONT     1 2026   70.77
+ CMONT     2 2026   70.49
+ CMONT     3 2026   70.47
+ CMONT     4 2026   70.57
+ CMONT     5 2026   70.79
+ CMONT     6 2026   71.11
+ CMONT     7 2026   71.08
+ CMONT     8 2026   71.00
+ CMONT     9 2026   70.92
+ CMONT    10 2026   70.65
+ CMONT    11 2026   70.66
+ CMONT    12 2026   70.94
+ CMONT     1 2027   70.77
+ CMONT     2 2027   70.49
+ CMONT     3 2027   70.47
+ CMONT     4 2027   70.57
+ CMONT     5 2027   70.79
+ CMONT     6 2027   71.11
+ CMONT     7 2027   71.08
+ CMONT     8 2027   71.00
+ CMONT     9 2027   70.92
+ CMONT    10 2027   70.65
+ CMONT    11 2027   70.66
+ CMONT    12 2027   70.94
+ CMONT     1 2028   70.77
+ CMONT     2 2028   70.49
+ CMONT     3 2028   70.47
+ CMONT     4 2028   70.57
+ CMONT     5 2028   70.79
+ CMONT     6 2028   71.11
+ CMONT     7 2028   71.08
+ CMONT     8 2028   71.00
+ CMONT     9 2028   70.92
+ CMONT    10 2028   70.65
+ CMONT    11 2028   70.66
+ CMONT    12 2028   70.94
+ CMONT     1 2029   70.77
+ CMONT     2 2029   70.49
+ CMONT     3 2029   70.47
+ CMONT     4 2029   70.57
+ CMONT     5 2029   70.79
+ CMONT     6 2029   71.11
+ CMONT     7 2029   71.08
+ CMONT     8 2029   71.00
+ CMONT     9 2029   70.92
+ CMONT    10 2029   70.65
+ CMONT    11 2029   70.66
+ CMONT    12 2029   70.79
+ CFUGA     2 2025   57.54
+ CFUGA     3 2025   59.22
+ CFUGA     4 2025   58.50
+ CFUGA     5 2025   56.35
+ CFUGA     6 2025   54.47
+ CFUGA     7 2025   51.35
+ CFUGA     8 2025   48.11
+ CFUGA     9 2025   46.60
+ CFUGA    10 2025   46.94
+ CFUGA    11 2025   49.17
+ CFUGA    12 2025   53.35
+ CFUGA     1 2026   56.15
+ CFUGA     2 2026   57.54
+ CFUGA     3 2026   59.22
+ CFUGA     4 2026   58.50
+ CFUGA     5 2026   56.35
+ CFUGA     6 2026   54.47
+ CFUGA     7 2026   51.35
+ CFUGA     8 2026   48.11
+ CFUGA     9 2026   46.60
+ CFUGA    10 2026   46.94
+ CFUGA    11 2026   49.17
+ CFUGA    12 2026   53.35
+ CFUGA     1 2027   56.15
+ CFUGA     2 2027   57.54
+ CFUGA     3 2027   59.22
+ CFUGA     4 2027   58.50
+ CFUGA     5 2027   56.35
+ CFUGA     6 2027   54.47
+ CFUGA     7 2027   51.35
+ CFUGA     8 2027   48.11
+ CFUGA     9 2027   46.60
+ CFUGA    10 2027   46.94
+ CFUGA    11 2027   49.17
+ CFUGA    12 2027   53.35
+ CFUGA     1 2028   56.15
+ CFUGA     2 2028   57.54
+ CFUGA     3 2028   59.22
+ CFUGA     4 2028   58.50
+ CFUGA     5 2028   56.35
+ CFUGA     6 2028   54.47
+ CFUGA     7 2028   51.35
+ CFUGA     8 2028   48.11
+ CFUGA     9 2028   46.60
+ CFUGA    10 2028   46.94
+ CFUGA    11 2028   49.17
+ CFUGA    12 2028   53.35
+ CFUGA     1 2029   56.15
+ CFUGA     2 2029   57.54
+ CFUGA     3 2029   59.22
+ CFUGA     4 2029   58.50
+ CFUGA     5 2029   56.35
+ CFUGA     6 2029   54.47
+ CFUGA     7 2029   51.35
+ CFUGA     8 2029   48.11
+ CFUGA     9 2029   46.60
+ CFUGA    10 2029   46.94
+ CFUGA    11 2029   49.17
+ CFUGA    12 2029   53.15
+ USINA    227                               SINOP
+ VAZMIN      173
+ VMAXT     7 2025  71.720 '%'
+ VMAXT    11 2025 100.000 '%'
+ VMAXT     7 2026  71.720 '%'
+ VMAXT    11 2026 100.000 '%'
+ VMAXT     7 2027  71.720 '%'
+ VMAXT    11 2027 100.000 '%'
+ VMAXT     7 2028  71.720 '%'
+ VMAXT    11 2028 100.000 '%'
+ VMAXT     7 2029  71.720 '%'
+ VMAXT    11 2029 100.000 '%'
+ USINA    229                               TELES PIRES
+ TURBMINT  2 2025 390.00
+ USINA    251                               SERRA MESA  
+ VAZMINT   2 2025  300.00
+ VAZMINT   3 2025  100.00
+ VAZMINT   6 2025  300.00
+ VAZMINT  12 2025  100.00
+ VAZMINT   6 2026  300.00
+ VAZMINT  12 2026  100.00
+ VAZMINT   6 2027  300.00
+ VAZMINT  12 2027  100.00
+ VAZMINT   6 2028  300.00
+ VAZMINT  12 2028  100.00
+ VAZMINT   6 2029  300.00
+ VAZMINT  12 2029  100.00
+ USINA    252                               CANA BRAVA  
+ VAZMINT   2 2025   90.00
+ USINA    253                               SAO SALVADOR
+ VAZMIN       90
+ USINA    257                               PEIXE ANGIC
+ VAZMINT   2 2025  360.00
+ USINA    261                               LAJEADO     
+ VAZMIN      255
+ USINA    262                               SALTO
+ TURBMINT  2 2025  79.00
+ USINA    278                               MANSO
+ VAZMIN       80
+ USINA    309                               JURUENA
+ NUMCNJ     1
+ NUMMAQ     0   1
+ USINA    311                               CACU        
+ VOLMIN            214.08 'h'
+ VOLMAX            214.08 'h'
+ VOLCOTA  476.18 0.00 0.00 0.00 0.00
+ USINA    34                                I. SOLTEIRA 
+ VAZMIN     1450
+ VOLMIN          15563.63 'h'
+ VMINT     2 2025  45.890 '%'
+ VMAXT     2 2025  76.440 '%'
+ VMAXT     3 2025  91.800 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  66.030 '%'
+ VMAXT     2 2026  76.440 '%'
+ VMAXT     3 2026  91.800 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  66.030 '%'
+ VMAXT     2 2027  76.440 '%'
+ VMAXT     3 2027  91.800 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  66.030 '%'
+ VMAXT     2 2028  76.440 '%'
+ VMAXT     3 2028  91.800 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  66.030 '%'
+ VMAXT     2 2029  76.440 '%'
+ VMAXT     3 2029  91.800 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  66.030 '%'
+ USINA    45                                JUPIA       
+ VAZMIN     3300
+ USINA    46                                P. PRIMAVERA
+ VAZMINT   2 2025 3900.00
+ VAZMINT  11 2025 4600.00
+ USINA    319                               FICT.MAUA   
+ VAZMIN       60
+ USINA    57                                MAUA        
+ VAZMIN       60
+ USINA    61                                CAPIVARA    
+ VAZMIN      276
+ VMAXT    12 2025  90.800 '%'
+ VMAXT     1 2026  83.400 '%'
+ VMAXT     2 2026 100.000 '%'
+ VMAXT    12 2026  90.800 '%'
+ VMAXT     1 2027  83.400 '%'
+ VMAXT     2 2027 100.000 '%'
+ VMAXT    12 2027  90.800 '%'
+ VMAXT     1 2028  83.400 '%'
+ VMAXT     2 2028 100.000 '%'
+ VMAXT    12 2028  90.800 '%'
+ VMAXT     1 2029  83.400 '%'
+ VMAXT     2 2029 100.000 '%'
+ VMAXT    12 2029  90.800 '%'
+ USINA    62                                TAQUARUCU   
+ VAZMIN      290
+ USINA    63                                ROSANA      
+ VAZMIN      326
+ USINA    73                                JORDAO      
+ VAZMIN       10
+ USINA    77                                SLT.SANTIAGO
+ VMAXT     5 2025  88.300 '%'
+ VMAXT     7 2025 100.000 '%'
+ VMAXT     5 2026  88.300 '%'
+ VMAXT     7 2026 100.000 '%'
+ VMAXT     5 2027  88.300 '%'
+ VMAXT     7 2027 100.000 '%'
+ VMAXT     5 2028  88.300 '%'
+ VMAXT     7 2028 100.000 '%'
+ VMAXT     5 2029  88.300 '%'
+ VMAXT     7 2029 100.000 '%'
+ USINA    78                                SALTO OSORIO
+ VAZMIN      200
+ USINA    82                                SALTO CAXIAS
+ VAZMIN      200
+ USINA    83                                BAIXO IGUACU
+ VAZMINT   2 2025  256.25
+ USINA    88                                SAO ROQUE
+ VAZMINT   2 2025   13.70
+ TURBMINT  2 2025  56.00
+ USINA    89                                GARIBALDI   
+ TURBMINT  2 2025 116.00
+ USINA    91                                MACHADINHO  
+ VAZMINT   2 2025  120.00
+ USINA    92                                ITA         
+ VAZMIN      150
+ USINA    103                               FOZ CHAPECO 
+ VAZMIN      200
+ USINA    95                                QUEBRA QUEIX
+ VAZMINT   2 2025    0.50
+ USINA    111                               PASSO REAL
+ VMAXT     2 2025  86.800 '%'
+ VMAXT     4 2025  84.800 '%'
+ VMAXT     7 2025  91.000 '%'
+ VMAXT     8 2025  84.800 '%'
+ VMAXT    11 2025  86.800 '%'
+ VMAXT    12 2025  88.000 '%'
+ VMAXT     2 2026  86.800 '%'
+ VMAXT     4 2026  84.800 '%'
+ VMAXT     7 2026  91.000 '%'
+ VMAXT     8 2026  84.800 '%'
+ VMAXT    11 2026  86.800 '%'
+ VMAXT    12 2026  88.000 '%'
+ VMAXT     2 2027  86.800 '%'
+ VMAXT     4 2027  84.800 '%'
+ VMAXT     7 2027  91.000 '%'
+ VMAXT     8 2027  84.800 '%'
+ VMAXT    11 2027  86.800 '%'
+ VMAXT    12 2027  88.000 '%'
+ VMAXT     2 2028  86.800 '%'
+ VMAXT     4 2028  84.800 '%'
+ VMAXT     7 2028  91.000 '%'
+ VMAXT     8 2028  84.800 '%'
+ VMAXT    11 2028  86.800 '%'
+ VMAXT    12 2028  88.000 '%'
+ VMAXT     2 2029  86.800 '%'
+ VMAXT     4 2029  84.800 '%'
+ VMAXT     7 2029  91.000 '%'
+ VMAXT     8 2029  84.800 '%'
+ VMAXT    11 2029  86.800 '%'
+ VMAXT    12 2029  88.000 '%'
+ USINA    114                               D. FRANCISCA
+ VAZMINT   2 2025   14.80
+ USINA    115                               G.P. SOUZA  
+ TURBMINT  2 2025   2.40
+ USINA    190                               B. ESPERANCA
+ VAZMIN      240
+ VMAXT     2 2025  63.900 '%'
+ VMAXT     3 2025  67.000 '%'
+ VMAXT     4 2025  81.100 '%'
+ VMAXT     5 2025 100.000 '%'
+ VMAXT    11 2025  72.200 '%'
+ VMAXT    12 2025  64.400 '%'
+ VMAXT     1 2026  63.900 '%'
+ VMAXT     3 2026  67.000 '%'
+ VMAXT     4 2026  81.100 '%'
+ VMAXT     5 2026 100.000 '%'
+ VMAXT    11 2026  72.200 '%'
+ VMAXT    12 2026  64.400 '%'
+ VMAXT     1 2027  63.900 '%'
+ VMAXT     3 2027  67.000 '%'
+ VMAXT     4 2027  81.100 '%'
+ VMAXT     5 2027 100.000 '%'
+ VMAXT    11 2027  72.200 '%'
+ VMAXT    12 2027  64.400 '%'
+ VMAXT     1 2028  63.900 '%'
+ VMAXT     3 2028  67.000 '%'
+ VMAXT     4 2028  81.100 '%'
+ VMAXT     5 2028 100.000 '%'
+ VMAXT    11 2028  72.200 '%'
+ VMAXT    12 2028  64.400 '%'
+ VMAXT     1 2029  63.900 '%'
+ VMAXT     3 2029  67.000 '%'
+ VMAXT     4 2029  81.100 '%'
+ VMAXT     5 2029 100.000 '%'
+ VMAXT    11 2029  72.200 '%'
+ VMAXT    12 2029  64.400 '%'
+ USINA    294                               FICT.QUEIMAD
+ VAZMINT   2 2025    8.80
+ VAZMINT   5 2025   17.00
+ VAZMINT  11 2025    8.80
+ VAZMINT   5 2026   17.00
+ VAZMINT  11 2026    8.80
+ VAZMINT   5 2027   17.00
+ VAZMINT  11 2027    8.80
+ VAZMINT   5 2028   17.00
+ VAZMINT  11 2028    8.80
+ VAZMINT   5 2029   17.00
+ VAZMINT  11 2029    8.80
+ VMINT     2 2025   0.000 '%'
+ VMAXT     2 2025  92.200 '%'
+ VMAXT     3 2025  97.400 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  79.400 '%'
+ VMAXT    12 2025  82.000 '%'
+ VMAXT     1 2026  87.100 '%'
+ VMAXT     2 2026  92.200 '%'
+ VMAXT     3 2026  97.400 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  79.400 '%'
+ VMAXT    12 2026  82.000 '%'
+ VMAXT     1 2027  87.100 '%'
+ VMAXT     2 2027  92.200 '%'
+ VMAXT     3 2027  97.400 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  79.400 '%'
+ VMAXT    12 2027  82.000 '%'
+ VMAXT     1 2028  87.100 '%'
+ VMAXT     2 2028  92.200 '%'
+ VMAXT     3 2028  97.400 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  79.400 '%'
+ VMAXT    12 2028  82.000 '%'
+ VMAXT     1 2029  87.100 '%'
+ VMAXT     2 2029  92.200 '%'
+ VMAXT     3 2029  97.400 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  79.400 '%'
+ VMAXT    12 2029  82.000 '%'
+ USINA    298                               FICT.IRAPE  
+ VAZMINT   2 2025   23.40
+ VMAXT     2 2025  94.500 '%'
+ VMAXT     3 2025  97.800 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  87.500 '%'
+ VMAXT    12 2025  87.800 '%'
+ VMAXT     1 2026  89.900 '%'
+ VMAXT     2 2026  94.500 '%'
+ VMAXT     3 2026  97.800 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  87.500 '%'
+ VMAXT    12 2026  87.800 '%'
+ VMAXT     1 2027  89.900 '%'
+ VMAXT     2 2027  94.500 '%'
+ VMAXT     3 2027  97.800 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  87.500 '%'
+ VMAXT    12 2027  87.800 '%'
+ VMAXT     1 2028  89.900 '%'
+ VMAXT     2 2028  94.500 '%'
+ VMAXT     3 2028  97.800 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  87.500 '%'
+ VMAXT    12 2028  87.800 '%'
+ VMAXT     1 2029  89.900 '%'
+ VMAXT     2 2029  94.500 '%'
+ VMAXT     3 2029  97.800 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  87.500 '%'
+ VMAXT    12 2029  87.800 '%'
+ USINA    154                               ITAPEBI
+ VAZMIN       40
+ NUMCNJ     3
+ NUMMAQ     1   1
+ NUMMAQ     0   2
+ NUMMAQ     1   3
+ USINA    308                               FICT.RETIRO 
+ VAZMINT   2 2025   27.67
+ USINA    295                               FICT.TRES MA
+ VAZMINT   2 2025  150.00
+ VMAXT     2 2025  89.000 '%'
+ VMAXT     3 2025  97.300 '%'
+ VMAXT     4 2025 100.000 '%'
+ VMAXT    11 2025  84.800 '%'
+ VMAXT    12 2025  70.200 '%'
+ VMAXT     1 2026  75.100 '%'
+ VMAXT     2 2026  89.000 '%'
+ VMAXT     3 2026  97.300 '%'
+ VMAXT     4 2026 100.000 '%'
+ VMAXT    11 2026  84.800 '%'
+ VMAXT    12 2026  70.200 '%'
+ VMAXT     1 2027  75.100 '%'
+ VMAXT     2 2027  89.000 '%'
+ VMAXT     3 2027  97.300 '%'
+ VMAXT     4 2027 100.000 '%'
+ VMAXT    11 2027  84.800 '%'
+ VMAXT    12 2027  70.200 '%'
+ VMAXT     1 2028  75.100 '%'
+ VMAXT     2 2028  89.000 '%'
+ VMAXT     3 2028  97.300 '%'
+ VMAXT     4 2028 100.000 '%'
+ VMAXT    11 2028  84.800 '%'
+ VMAXT    12 2028  70.200 '%'
+ VMAXT     1 2029  75.100 '%'
+ VMAXT     2 2029  89.000 '%'
+ VMAXT     3 2029  97.300 '%'
+ VMAXT     4 2029 100.000 '%'
+ VMAXT    11 2029  84.800 '%'
+ VMAXT    12 2029  70.200 '%'
+ USINA    169                               SOBRADINHO
+ VAZMIN      800
+ NUMCNJ     1
+ NUMMAQ     5   1
+ VMAXT     2 2025  81.800 '%'
+ VMAXT     3 2025  91.400 '%'
+ VMAXT     4 2025  94.800 '%'
+ VMAXT     5 2025 100.000 '%'
+ VMAXT    11 2025  86.800 '%'
+ VMAXT    12 2025  78.300 '%'
+ VMAXT     1 2026  77.700 '%'
+ VMAXT     2 2026  81.800 '%'
+ VMAXT     3 2026  91.400 '%'
+ VMAXT     4 2026  94.800 '%'
+ VMAXT     5 2026 100.000 '%'
+ VMAXT    11 2026  86.800 '%'
+ VMAXT    12 2026  78.300 '%'
+ VMAXT     1 2027  77.700 '%'
+ VMAXT     2 2027  81.800 '%'
+ VMAXT     3 2027  91.400 '%'
+ VMAXT     4 2027  94.800 '%'
+ VMAXT     5 2027 100.000 '%'
+ VMAXT    11 2027  86.800 '%'
+ VMAXT    12 2027  78.300 '%'
+ VMAXT     1 2028  77.700 '%'
+ VMAXT     2 2028  81.800 '%'
+ VMAXT     3 2028  91.400 '%'
+ VMAXT     4 2028  94.800 '%'
+ VMAXT     5 2028 100.000 '%'
+ VMAXT    11 2028  86.800 '%'
+ VMAXT    12 2028  78.300 '%'
+ VMAXT     1 2029  77.700 '%'
+ VMAXT     2 2029  81.800 '%'
+ VMAXT     3 2029  91.400 '%'
+ VMAXT     4 2029  94.800 '%'
+ VMAXT     5 2029 100.000 '%'
+ VMAXT    11 2029  86.800 '%'
+ VMAXT    12 2029  78.300 '%'
+ USINA    172                               ITAPARICA   
+ VAZMINT   2 2026  800.00
+ VMINT     2 2025  30.000 '%'
+ VMINT     3 2025   0.000 '%'
+ VMAXT     2 2025  54.900 '%'
+ VMAXT     3 2025  69.200 '%'
+ VMAXT     4 2025  86.700 '%'
+ VMAXT     5 2025 100.000 '%'
+ VMAXT    11 2025  68.100 '%'
+ VMAXT    12 2025  54.900 '%'
+ VMAXT     3 2026  69.200 '%'
+ VMAXT     4 2026  86.700 '%'
+ VMAXT     5 2026 100.000 '%'
+ VMAXT    11 2026  68.100 '%'
+ VMAXT    12 2026  54.900 '%'
+ VMAXT     3 2027  69.200 '%'
+ VMAXT     4 2027  86.700 '%'
+ VMAXT     5 2027 100.000 '%'
+ VMAXT    11 2027  68.100 '%'
+ VMAXT    12 2027  54.900 '%'
+ VMAXT     3 2028  69.200 '%'
+ VMAXT     4 2028  86.700 '%'
+ VMAXT     5 2028 100.000 '%'
+ VMAXT    11 2028  68.100 '%'
+ VMAXT    12 2028  54.900 '%'
+ VMAXT     3 2029  69.200 '%'
+ VMAXT     4 2029  86.700 '%'
+ VMAXT     5 2029 100.000 '%'
+ VMAXT    11 2029  68.100 '%'
+ VMAXT    12 2029  54.900 '%'
+ USINA    176                               COMP PAF-MOX
+ VAZMINT   2 2026  800.00
+ USINA    178                               XINGO       
+ VAZMINT   2 2025  800.00
+ TURBMAXT  2 2025 1100.00
+ TURBMAXT  3 2025 99999.0
+ USINA    288                               BELO MONTE
+ CMONT     2 2025   96.87
+ CMONT     3 2025   96.91
+ CMONT     4 2025   96.89
+ CMONT     5 2025   96.76
+ CMONT     6 2025   96.82
+ CMONT     7 2025   96.98
+ CMONT     8 2025   97.00
+ CMONT     9 2025   96.44
+ CMONT    10 2025   95.32
+ CMONT    11 2025   96.01
+ CMONT    12 2025   96.78
+ CMONT     1 2026   96.90
+ CMONT     2 2026   96.87
+ CMONT     3 2026   96.91
+ CMONT     4 2026   96.89
+ CMONT     5 2026   96.76
+ CMONT     6 2026   96.82
+ CMONT     7 2026   96.98
+ CMONT     8 2026   97.00
+ CMONT     9 2026   96.44
+ CMONT    10 2026   95.32
+ CMONT    11 2026   96.01
+ CMONT    12 2026   96.78
+ CMONT     1 2027   96.90
+ CMONT     2 2027   96.87
+ CMONT     3 2027   96.91
+ CMONT     4 2027   96.89
+ CMONT     5 2027   96.76
+ CMONT     6 2027   96.82
+ CMONT     7 2027   96.98
+ CMONT     8 2027   97.00
+ CMONT     9 2027   96.44
+ CMONT    10 2027   95.32
+ CMONT    11 2027   96.01
+ CMONT    12 2027   96.78
+ CMONT     1 2028   96.90
+ CMONT     2 2028   96.87
+ CMONT     3 2028   96.91
+ CMONT     4 2028   96.89
+ CMONT     5 2028   96.76
+ CMONT     6 2028   96.82
+ CMONT     7 2028   96.98
+ CMONT     8 2028   97.00
+ CMONT     9 2028   96.44
+ CMONT    10 2028   95.32
+ CMONT    11 2028   96.01
+ CMONT    12 2028   96.78
+ CMONT     1 2029   96.90
+ CMONT     2 2029   96.87
+ CMONT     3 2029   96.91
+ CMONT     4 2029   96.89
+ CMONT     5 2029   96.76
+ CMONT     6 2029   96.82
+ CMONT     7 2029   96.98
+ CMONT     8 2029   97.00
+ CMONT     9 2029   96.44
+ CMONT    10 2029   95.32
+ CMONT    11 2029   96.01
+ CMONT    12 2029   96.64
+ USINA    291                               FICT.SERRA M
+ VAZMINT   2 2025  100.00
+ VAZMINT   6 2025  300.00
+ VAZMINT  12 2025  100.00
+ VAZMINT   6 2026  300.00
+ VAZMINT  12 2026  100.00
+ VAZMINT   6 2027  300.00
+ VAZMINT  12 2027  100.00
+ VAZMINT   6 2028  300.00
+ VAZMINT  12 2028  100.00
+ VAZMINT   6 2029  300.00
+ VAZMINT  12 2029  100.00
+ VOLMAX   55.000 '%'
+ USINA    292                               FICT.CANA BR
+ VAZMINT   2 2025   90.00
+ USINA    306                               FICT.SAO SAL
+ VAZMIN       90
+ USINA    303                               FICT.PEIXE A
+ VAZMINT   2 2025  360.00
+ USINA    302                               FICT.LAJEADO
+ VAZMIN      255
+ USINA    267                               ESTREITO TOC
+ VAZMIN      744
+ USINA    275                               TUCURUI     
+ VAZMIN     2000
+ NUMCNJ     3
+ NUMMAQ     2   1
+ NUMMAQ     11  2
+ NUMMAQ     10  3
+ CFUGA     2 2025    4.50
+ CFUGA     3 2025   10.86
+ CFUGA     4 2025   11.49
+ CFUGA     5 2025    9.99
+ CFUGA     6 2025    6.87
+ CFUGA     7 2025    5.45
+ CFUGA     1 2026    7.34
+ CFUGA     2 2026    9.15
+ CFUGA     3 2026   10.86
+ CFUGA     4 2026   11.49
+ CFUGA     5 2026    9.99
+ CFUGA     6 2026    6.87
+ CFUGA     7 2026    5.45
+ CFUGA     1 2027    7.34
+ CFUGA     2 2027    9.15
+ CFUGA     3 2027   10.86
+ CFUGA     4 2027   11.49
+ CFUGA     5 2027    9.99
+ CFUGA     6 2027    6.87
+ CFUGA     7 2027    5.45
+ CFUGA     1 2028    7.34
+ CFUGA     2 2028    9.15
+ CFUGA     3 2028   10.86
+ CFUGA     4 2028   11.49
+ CFUGA     5 2028    9.99
+ CFUGA     6 2028    6.87
+ CFUGA     7 2028    5.45
+ CFUGA     1 2029    7.34
+ CFUGA     2 2029    9.15
+ CFUGA     3 2029   10.86
+ CFUGA     4 2029   11.49
+ CFUGA     5 2029    9.99
+ CFUGA     6 2029    6.87
+ CFUGA     7 2029    5.45
+ CFUGA    12 2029    7.36
+ USINA    314                               PIMENTAL
+ CMONT     2 2025   96.87
+ CMONT     3 2025   96.91
+ CMONT     4 2025   96.89
+ CMONT     5 2025   96.76
+ CMONT     6 2025   96.82
+ CMONT     7 2025   96.98
+ CMONT     8 2025   97.00
+ CMONT     9 2025   96.44
+ CMONT    10 2025   95.32
+ CMONT    11 2025   96.01
+ CMONT    12 2025   96.78
+ CMONT     1 2026   96.90
+ CMONT     2 2026   96.87
+ CMONT     3 2026   96.91
+ CMONT     4 2026   96.89
+ CMONT     5 2026   96.76
+ CMONT     6 2026   96.82
+ CMONT     7 2026   96.98
+ CMONT     8 2026   97.00
+ CMONT     9 2026   96.44
+ CMONT    10 2026   95.32
+ CMONT    11 2026   96.01
+ CMONT    12 2026   96.78
+ CMONT     1 2027   96.90
+ CMONT     2 2027   96.87
+ CMONT     3 2027   96.91
+ CMONT     4 2027   96.89
+ CMONT     5 2027   96.76
+ CMONT     6 2027   96.82
+ CMONT     7 2027   96.98
+ CMONT     8 2027   97.00
+ CMONT     9 2027   96.44
+ CMONT    10 2027   95.32
+ CMONT    11 2027   96.01
+ CMONT    12 2027   96.78
+ CMONT     1 2028   96.90
+ CMONT     2 2028   96.87
+ CMONT     3 2028   96.91
+ CMONT     4 2028   96.89
+ CMONT     5 2028   96.76
+ CMONT     6 2028   96.82
+ CMONT     7 2028   96.98
+ CMONT     8 2028   97.00
+ CMONT     9 2028   96.44
+ CMONT    10 2028   95.32
+ CMONT    11 2028   96.01
+ CMONT    12 2028   96.78
+ CMONT     1 2029   96.90
+ CMONT     2 2029   96.87
+ CMONT     3 2029   96.91
+ CMONT     4 2029   96.89
+ CMONT     5 2029   96.76
+ CMONT     6 2029   96.82
+ CMONT     7 2029   96.98
+ CMONT     8 2029   97.00
+ CMONT     9 2029   96.44
+ CMONT    10 2029   95.32
+ CMONT    11 2029   96.01
+ CMONT    12 2029   96.64
