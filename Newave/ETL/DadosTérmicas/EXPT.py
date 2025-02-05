@@ -30,23 +30,23 @@ def extract_expt_data(file_path, output_excel):
     # Criar DataFrame
     columns = ["Num", "Tipo", "Modificação", "Mês Início", "Ano Início", "Mês Fim", "Ano Fim", "Nome Usina"]
     df_expt = pd.DataFrame(expansion_data, columns=columns)
-
-    import streamlit as st
-    st.dataframe(df_expt)
+    print(df_expt)
+    # import streamlit as st
+    # st.dataframe(df_expt)
 
     # Salvar em um arquivo Excel
     df_expt.to_excel(output_excel, index=False)
-
-    # Salvar alterações de volta no arquivo EXPT.DAT
-    with open(file_path, "w", encoding="latin-1") as file:
-     file.write("NUM   TIPO   MODIF  MI ANOI MF ANOF")  # Escrever cabeçalho original
-    for _, row in df_expt.iterrows():
-        file.write(f"{row['Num']:4} {row['Tipo']:6} {row['Modificação']:8.2f} {row['Mês Início']:2} {row['Ano Início']:4} "f"{row['Mês Fim'] if row['Mês Fim'] else '':2} {row['Ano Fim'] if row['Ano Fim'] else '':4} {row['Nome Usina']}")
+    #
+    # # Salvar alterações de volta no arquivo EXPT.DAT
+    # with open(file_path, "w", encoding="latin-1") as file:
+    #  file.write("NUM   TIPO   MODIF  MI ANOI MF ANOF")  # Escrever cabeçalho original
+    # for _, row in df_expt.iterrows():
+    #     file.write(f"{row['Num']:4} {row['Tipo']:6} {row['Modificação']:8.2f} {row['Mês Início']:2} {row['Ano Início']:4} "f"{row['Mês Fim'] if row['Mês Fim'] else '':2} {row['Ano Fim'] if row['Ano Fim'] else '':4} {row['Nome Usina']}")
     return df_expt
 
 
 # Exemplo de uso
-file_path = rf"C:\Users\alexmattos-aem\Documents\PycharmProjects\Projeto_Newave_Decomp\Newave\Deck\deck_newave_2025_02_Preliminar\EXPT.DAT"  # Substituir pelo caminho correto
+file_path = rf"C:\Users\alexmattos-aem\Documents\PycharmProjects\Projeto_Newave_Decomp\Newave\Deck\NW202502\EXPT.DAT"  # Substituir pelo caminho correto
 output_excel = "expansao_termica.xlsx"
 df_result = extract_expt_data(file_path, output_excel)
 
